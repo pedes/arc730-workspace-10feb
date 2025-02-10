@@ -1,6 +1,8 @@
 # arc730-workspace-10feb
 This repo contains study material and working exercises for class ARC730
 
+Exam Guide: https://trailhead.salesforce.com/help?article=Salesforce-Certified-MuleSoft-Integration-Architect-I-Exam-Guide
+
 
 ### REferences
 
