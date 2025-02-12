@@ -42,6 +42,8 @@ graph TD
     F -->|Update Status| D
     I[Manual Reprocessing Flow] -->|Retrieve Failed| H
     I -->|Reprocess| F
-    
+    J[Alert Flow] -->|Monitor| E
+    J -->|Monitor| F
+
     end
 ```
