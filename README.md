@@ -35,3 +35,6 @@ https://docs.mulesoft.com/hyperforce/
 
 Dataweave Variables
 https://docs.mulesoft.com/dataweave/latest/dataweave-variables-context
+
+Documentation template Architecture
+- https://gist.github.com/pedes/df16235ad5b313a5d1de09b80fd8da64 
