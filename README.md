@@ -24,6 +24,9 @@ Exchange APIs
 - https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/exchange-maven-facade-api-http/
 - https://docs.mulesoft.com/exchange/about-platform-apis
 
+Mocking Service API
+- https://anypoint.mulesoft.com/exchange/org.mule.examples/mocking-service-2-api/minor/1.1/pages/Behavioral%20Headers/
+
 Status Salesforce - Mulesoft
 https://status.salesforce.com/products/Mulesoft
 
