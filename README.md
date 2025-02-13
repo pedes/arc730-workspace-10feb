@@ -13,6 +13,9 @@ Exam Guide: https://trailhead.salesforce.com/help?article=Salesforce-Certified-M
 ISO 42010 
 - https://www.iso.org/standard/50508.html
 
+ISO 25010 (quality attributes)
+- https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
 
 Exhcange Limits
 - https://docs.mulesoft.com/exchange/asset-versions
@@ -35,6 +38,10 @@ https://docs.mulesoft.com/hyperforce/
 
 Dataweave Variables
 https://docs.mulesoft.com/dataweave/latest/dataweave-variables-context
+
+Object Store OSv2
+- https://docs.mulesoft.com/object-store/osv2-faq
+- https://docs.mulesoft.com/object-store/osv2-apis
 
 Documentation template Architecture
 - https://gist.github.com/pedes/df16235ad5b313a5d1de09b80fd8da64 
