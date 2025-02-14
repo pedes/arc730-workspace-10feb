@@ -43,5 +43,14 @@ Object Store OSv2
 - https://docs.mulesoft.com/object-store/osv2-faq
 - https://docs.mulesoft.com/object-store/osv2-apis
 
+Permissions
+- https://docs.mulesoft.com/access-management/permissions-by-product
+
+Audit Log API
+- https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/audit-log-query-api/minor/1.0/pages/home/
+
+Metrics Toolkit
+- https://github.com/mulesoft-catalyst/metrics-toolkit
+
 Documentation template Architecture
 - https://gist.github.com/pedes/df16235ad5b313a5d1de09b80fd8da64 
