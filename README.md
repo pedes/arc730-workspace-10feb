@@ -16,6 +16,9 @@ ISO 42010
 ISO 25010 (quality attributes)
 - https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
+General REST APIs Best Practices
+- https://github.com/pedes/REST-API-Best-Practices
+- https://gist.github.com/pedes/b6a767153a32b79606e349b07427392d
 
 Exhcange Limits
 - https://docs.mulesoft.com/exchange/asset-versions
